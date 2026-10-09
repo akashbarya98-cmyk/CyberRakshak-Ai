@@ -1,0 +1,6 @@
+{
+  "name": "CyberRakshak AI",
+  "description": "AI-Powered Personal & Business Cybersecurity Intelligence Platform. Detect suspicious activity, assess security weaknesses, and take actionable protection steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
