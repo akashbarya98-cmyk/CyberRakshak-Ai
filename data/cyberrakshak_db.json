@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastMigrationAt": "2026-10-10T12:40:29.311Z",
+  "lastMigrationAt": "2026-10-10T12:46:30.745Z",
   "workspaces": [
     {
       "id": "ws-personal",
@@ -341,7 +341,7 @@
       "time": "2 hours ago",
       "type": "danger",
       "read": false,
-      "timestamp": 1791628829312
+      "timestamp": 1791629190746
     },
     {
       "id": "n-2",
@@ -351,7 +351,7 @@
       "time": "5 hours ago",
       "type": "warning",
       "read": false,
-      "timestamp": 1791618029312
+      "timestamp": 1791618390746
     }
   ],
   "hygiene": {
